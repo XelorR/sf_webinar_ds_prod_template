@@ -1,3 +1,5 @@
 app/src/__pycache__/
 .idea
 *.pkl
+venv
+.vscode
